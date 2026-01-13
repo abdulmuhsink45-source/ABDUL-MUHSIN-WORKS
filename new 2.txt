@@ -1,0 +1,15 @@
+A “Mechanical Engineer Learning Embedded Programming” course is designed to help mechanical engineers transition into working with embedded systems—the combination of hardware and low-level software used in products like robots, machines, vehicles, medical devices, and industrial equipment.
+
+Here’s a clear breakdown of what such a course typically covers and why it’s useful.
+
+🎯 Purpose of the Course
+
+Mechanical engineers often understand systems, dynamics, and hardware, but may lack experience in:
+
+Programming close to hardware
+
+Microcontrollers and real-time behavior
+
+Interfacing sensors and actuators via code
+
+This course bridges that gap so you can design, program, and debug embedded systems used in real-world mechanical products.
