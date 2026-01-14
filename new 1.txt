@@ -1,8 +1,5 @@
 
 
-Abdul Muhsin k
-A  fresher learning about embedded software innovative course is designed to take someone with little or no industry experience and build the core skills needed to work with embedded systems—software that runs on microcontrollers and hardware devices.
-work your self
 Here’s a clear breakdown 👇
 
 What is an Embedded Software innovative Course?
