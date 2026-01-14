@@ -5,7 +5,7 @@ A fresher learning about embedded software course is designed to take someone wi
 
 Here’s a clear breakdown 👇
 
-What is an Embedded Software Course?
+What is an Embedded Software innovative Course?
 
 It teaches how to write, test, and debug software that directly controls hardware, such as:
 
