@@ -2,7 +2,7 @@ A “Mechanical Engineer Learning Embedded Programming” course is designed to 
 
 Here’s a clear breakdown of what such a course typically covers and why it’s useful.
 
-🎯 Purpose of the Course
+🎯 Purpose of the innovative Course
 
 Mechanical engineers often understand systems, dynamics, and hardware, but may lack experience in:
 
